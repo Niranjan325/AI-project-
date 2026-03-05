@@ -1,0 +1,41 @@
+AQI Data Storage
+=================
+
+Location: New Delhi
+Latitude: 28.6139
+Longitude: 77.2090
+Timestamp: 2026-03-05T16:00:00
+
+Pollutants:
+- PM2.5: 85.3 µg/m³
+- PM10: 156.7 µg/m³
+- NO2: 62.5 ppb
+- SO2: 18.3 ppb
+- O3: 45.2 ppb
+- CO: 1.2 mg/m³
+
+AQI Category: Poor (151-200)
+Health Status: Avoid outdoor activities, use N95 masks
+
+---
+
+Location: Hyderabad
+Latitude: 17.3850
+Longitude: 78.4867
+Timestamp: 2026-03-05T16:00:00
+
+Pollutants:
+- PM2.5: 45.2 µg/m³
+- PM10: 78.5 µg/m³
+- NO2: 32.1 ppb
+- SO2: 12.5 ppb
+- O3: 35.8 ppb
+- CO: 0.8 mg/m³
+
+AQI Category: Satisfactory (51-100)
+Health Status: Outdoor activities are safe
+
+---
+
+Last Updated: 2026-03-05 16:00 IST
+Data Source: OpenWeatherMap API
